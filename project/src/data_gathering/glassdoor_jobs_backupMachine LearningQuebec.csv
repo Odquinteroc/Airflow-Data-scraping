@@ -1,0 +1,693 @@
+﻿Job Title,Company Name,Location,Salary,Posted Day,Job Description,job url,Provincia,Keyword
+"Sr. Engineer, PCB ($100,000 - $130,000+/yr + Remote)",Wolf Advanced Technology,Canada,$100K (Employer Est.),19d,"Ensure world-class quality in electronics and aerospace with WOLF’s industry-leading standards
+Earn a competitive annual salary of $100,000 - $130,000, negotiable based on skills and experience, with comprehensive benefits
+Join WOLF’s inclusive and supportive team to shape the future of mission-critical solutions worldwide
+About Wolf Advanced Technology
+
+At Wolf Advanced Technology (WOLF), we lead the world in designing and developing rugged, field-deployable solutions that capture, process, encode, and display embedded video for the most demanding military and aerospace markets. Founded with a commitment to innovation, our advanced products meet the rigorous standards necessary for mission-critical success, serving top defence contractors and aerospace leaders globally. Our key technologies include NVIDIA, Xilinx, and AMD processing units, which power our cutting-edge solutions for AI machine vision, neural network-based deep learning, and more.
+Our high-energy, results-driven team thrives in an environment of rapid business growth and continuous innovation. At WOLF, we cherish a culture of collaboration where every voice is valued. If you excel in fast-paced development and are excited by leading-edge technology, WOLF is the company for you. Join us and contribute to groundbreaking, lifesaving, mission-critical systems.
+
+For more information, please visit our website: wolfadvancedtechnology.com
+
+About the Opportunity
+
+WOLF is looking for a full-time Sr. Engineer, PCB to join our remote team while supporting our operations based in Aurora, ON.
+
+Reporting to the Sr. Director, Engineering (NPI HW/PCB/DV), you will play a pivotal role in designing and developing high-performance printed circuit boards (PCBs), ensuring compliance with industry standards while collaborating across engineering, manufacturing, and mechanical teams.
+
+In this position, you will be primarily responsible for creating innovative PCB solutions that meet product requirements, optimizing signal and power integrity, and ensuring manufacturability within the fast-paced aerospace and defense industry.
+
+More specifically, your responsibilities include but are not limited to:
+
+Designing and developing high-speed, multi-layer printed circuit boards (10-18 layers)
+Selecting appropriate materials and board stack-ups for signal integrity and power distribution
+Creating and maintaining PCB symbol and footprint libraries
+Conducting power integrity analysis and optimizing component placement for performance and manufacturability
+Performing peer layout reviews and developing complete fabrication packages
+Ensuring designs adhere to DFM/DFA principles and manufacturing cost considerations
+Providing technical support for production and collaborating with mechanical engineers on integration
+Offering mentorship and technical guidance to junior contributors
+
+To read the full position description, please click here.
+
+About You
+
+To qualify, you will need 5+ years of experience in high-speed, high-layer-count PCB design (10+ layers), ideally in aerospace, defence, or a similarly complex industry. While a bachelor’s degree in electrical engineering or a related field is preferred, an equivalent combination of education, hands-on experience, and professional development will be considered.
+
+Eligibility Requirements
+
+WOLF is a military and aerospace manufacturer requiring strict adherence to CGP and ITAR requirements. As a condition of employment, applicants must be able to provide valid documentation to show Canadian or US citizenship or Canadian Permanent Residency and undergo a police check with no criminal background.
+
+The following skills and background will be highly valued:
+
+Expertise in high-speed PCB layout (10-18 layers), including controlled impedance routing
+Strong experience with HDI design, Rigid-Flex, and high pin-count BGA component placement
+Experience in PCIe GEN4, GDDR6, DDR4, 100GbE, 12G-SDI, and DisplayPort HBR3 routing
+Expertise in transmission line routing (Microstrip/Strip line) and PCB design constraints for high-speed interfaces
+Proficiency in PCB design tools, with preferred experience in Cadence Allegro (17.4, 22.1, 23.1) and the ability to maintain symbol and footprint libraries
+Deep understanding of DFM/DFA principles, PCB manufacturing processes, and cost considerations
+Knowledge of termination techniques, crosstalk mitigation, return loss tuning, EMI/EMC best practices
+Experience in power integrity analysis (DC Drop, thermal) and signal integrity analysis
+Willingness and ability to travel for organisation needs
+Proven RF board design experience (asset)
+
+As our ideal candidate, you are a confident problem-solver who thrives on tackling complex PCB design puzzles with precision and efficiency. You bring a sharp analytical mindset and hands-on troubleshooting skills, allowing you to make independent design decisions while ensuring accuracy and reliability. Your strong collaboration and communication skills enable you to work seamlessly across engineering teams, balancing autonomy with teamwork in a high-stakes environment.
+
+This is a high-impact role for a PCB designer eager to hit the ground running, push the boundaries of high-speed layouts, and drive aerospace and defense innovations. If you are confident in your expertise, take ownership of challenges, and solve problems proactively with minimal guidance while leveraging support when needed, we want to hear from you!
+
+About the Benefits
+
+Compensation based on skills and experience, is a competitive annual salary of $100,000 - $130,000, negotiable depending on experience and qualifications, and a host of excellent benefits including:
+
+Health Care Spending Account
+3 weeks Paid time off plus an extra week for holiday shutdown
+A flexible hybrid work model
+Monthly Wellness Allowance
+Profit-sharing program after one year
+Remote work model
+Equipment and tools provided
+Personal/professional development opportunities
+Regular social and appreciation events like holiday parties, sports events, food trucks, bi-weekly wellness events, and much more!
+
+Join us at WOLF and be part of a team dedicated to delivering mission-critical solutions for the world's most demanding markets. Apply today!
+
+Please note: Only candidates who meet CGP and ITAR requirements will be considered for this role. This includes providing valid documentation of Canadian citizenship, US citizenship, or Canadian Permanent Residency. Applicants without full, unrestricted work authorization in Canada, such as those on temporary work permits or graduate work permits, will not be eligible. We appreciate your understanding.","https://www.glassdoor.ca/job-listing/sr-engineer-pcb-100-000-130-000-yr-remote-wolf-advanced-technology-JV_KO0,41_KE42,66.htm?jl=1009677847375",Quebec,Machine Learning
+Ingénieur Cloud DevOps,"LGS, une Société IBM / an IBM Company",Quebec,N/A,3d,"LGS, c’est avoir une carrière dans un environnement où vous êtes apprécié à votre juste valeur. C’est aussi une culture d’entreprise axée sur la diversité et l’inclusion, où nous accueillions tant les talents locaux qu’internationaux.
+
+Vous serez impliqué dans des projets de grande envergure qui font progresser les entreprises et améliorent la vie des gens. Vous serez aux premiers rangs pour collaborer à des transformations numériques à large déploiement dans le domaine public et privé.
+
+Le Centre d’Innovation Client IBM Québec (CIC) chez LGS emploie des professionnels qui travaillent sur des projets en communautés de pratique, qui offrent des services de proximité et à distance. Notre CIC a des bureaux à Montréal et Québec qui font partie du réseau mondial IBM. Tous nos employés quel que soit leur niveau d’expérience, sont jumelés à un coach afin d’évoluer professionnellement.
+
+Les avantages de vous joindre à nous :
+
+Pour apprendre tous les jours : l'accès au capital intellectuel d’IBM et à de la formation sur une multitude de technologies de pointe.
+Pour votre bien-être : un ensemble d’assurances collectives y compris un service de télémédecine, un régime épargne retraite avec contribution de l'employeur, des actions IBM à un tarif avantageux, et un forfait mieux-être !
+Pour profiter de temps de qualité : des vacances annuelles, des congés d'entreprise et des congés spéciaux pour les évènements de la vie.
+Pour avoir du plaisir avec vos collègues : une communauté active et un comité social proposent des activités pour vous garder connectés !
+
+Nous sommes à la recherche d'un Ingénieur Cloud DevOps expérimenté pour rejoindre notre équipe dynamique et contribuer à la gestion et à l'optimisation de notre infrastructure cloud.
+
+Responsabilités
+
+Concevoir, déployer et gérer des infrastructures cloud sur AWS et Azure.
+Mettre en place et maintenir des pipelines CI/CD pour automatiser les processus de déploiement.
+Assurer la sécurité, la scalabilité et la performance des environnements cloud.
+Collaborer avec les équipes de développement pour intégrer les meilleures pratiques DevOps.
+Surveiller et optimiser les coûts des services cloud.
+Participer à la veille technologique et proposer des améliorations techniques.
+
+Qualifications Requises
+
+Diplôme en informatique, ingénierie ou dans un domaine connexe.
+Expérience professionnelle de 3 ans ou plus en tant qu'Ingénieur Cloud DevOps.
+Maîtrise des services AWS et Azure.
+Expérience avec les outils de CI/CD (Jenkins, GitLab CI, CircleCI, etc.).
+Connaissance des technologies de conteneurisation (Docker, Kubernetes).
+Expérience avec les outils de gestion de configuration (Terraform, Ansible, Puppet).
+Bonne compréhension des principes de l'architecture cloud et des bonnes pratiques DevOps.
+Bilinguisme complet (français et anglais) requis.
+
+Compétences Souhaitées
+
+Expérience avec les technologies d'intelligence artificielle (AI) et de machine learning (ML).
+Connaissance des méthodologies Agile/Scrum.
+Capacité à travailler de manière autonome et en équipe.
+Excellentes compétences en communication et en résolution de problèmes.
+
+Ce Que Nous Offrons
+
+Un environnement de travail stimulant et collaboratif.
+Des opportunités de développement professionnel et de formation continue.
+Un salaire compétitif et des avantages sociaux attractifs.
+La possibilité de travailler sur des projets innovants et à fort impact.
+
+#LGSJOBS
+
+Soyez vous-même chez LGS
+
+LGS s’engage à considérer tous candidats qualifiés sans égards à l’ethnie, la couleur, la religion, le sexe, l’identité ou l’expression de genre, l’orientation sexuelle, l’origine nationale, la génétique, la grossesse, le handicap, la neurodiversité, l’âge, le statut d’ancien combattant ou d’autres caractéristiques.
+
+Il est possible que ce rôle implique que vous allez travailler avec une ou des technologies couvertes par des sanctions de la réglementation sur les exportations. Si vous n’êtes pas résident permanent canadien ou citoyen canadien, informez-vous auprès de votre conseiller en acquisition de talents.","https://www.glassdoor.ca/job-listing/ing%C3%A9nieur-cloud-devops-lgs-une-soci%C3%A9t%C3%A9-ibm-an-ibm-company-JV_KO0,22_KE23,57.htm?jl=1009699399494",Quebec,Machine Learning
+Applied AI Research Scientist (Data Science & Decision Making),Thales,Quebec,N/A,30d+,"Location: Quebec City, Canada
+Dans des marchés en rapide évolution, les clients à travers le monde font confiance à Thales. Thales est une entreprise où les personnes les plus brillantes du monde entier se regroupent pour mettre en commun leurs idées et ainsi s'inspirer mutuellement. Dans tous les secteurs où œuvre Thales, notamment l’aérospatiale, le transport, la défense, la sécurité et l'espace, nos équipes d’architectes conçoivent des solutions innovantes qui rendent demain possible dès aujourd’hui.
+Au sein du groupe, Thales Digital Solutions (TDS) est un pôle d’innovation technologique supportant tous les secteurs d’activités autant sur le marché local canadien qu’à l'international. Rejoignez-nous afin de contribuer au développement de solutions pour nos missions critiques. Nos projets de pointe variés utilisent nos expertises en Intelligence Artificielle, Facteurs Humains, Systèmes autonomes collaboratifs, Optimisation, Gestion de la connaissance, Cybersécurité et Design.
+In fast changing markets, customers worldwide rely on Thales. Thales is a business where brilliant people from all over the world come together to share ideas and inspire each other. In aerospace, transportation, defence, security and space, our architects design innovative solutions that make our tomorrow's possible.
+Within the group, Thales Digital Solutions (TDS) is a technological innovation hub supporting all sectors of activity, both in the local Canadian market and internationally. Join us to contribute to the development of mission critical solutions. Our various cutting-edge projects use our expertise in Artificial Intelligence, Human Factors, Collaborative Autonomous Systems, Optimization, Knowledge Management, Cybersecurity and Design.
+Applied AI Research Scientist (Data Science & Decision Making)
+Il s'agit d'un poste hybride dans la ville de Québec ou à Montréal
+Résumé du poste
+Le groupe Thales est une organisation mondiale présente sur tous les continents au service de cinq grands marchés, tous d'importance vitale pour nos sociétés : l'aérospatial, l'espace, la défense et la sécurité et l’identité et la sécurité numérique. Du fond des océans aux profondeurs de l'espace et du cyberespace, le groupe Thales propose une gamme unique de technologies et de services qui rendent demain possible, aujourd'hui. Qu'il s'agisse d'aider les villes et les infrastructures critiques à devenir sûres et intelligentes, de sécuriser les marchés financiers mondiaux, de protéger les données et la vie privée et de maintenir les forces de sécurité connectées lors de missions critiques, Thales veille à ce que chacun puisse continuer à partager des informations et à profiter des avantages d'un monde connecté et profiter d'une meilleure qualité de vie, tout en restant en sécurité et en ayant une longueur d'avance sur toutes les formes de menace numérique.
+L’équipe canadienne de l’IA appliquée de Thales est à la recherche d’un chercheur talentueux avec un grand appétit pour résoudre des problèmes complexes de recherche et les appliquer à des projets d’apprentissage automatique pour des systèmes critiques. L’équipe travaille pour développer des solutions de pointe qui permettent d’inclure des capacités de science de données et d’aide à la décision.
+Thales Group is a global organization with operations on all continents serving five major markets, all of them of vital importance for our societies: aerospace, space, defense and security, and digital identity and security. From the bottom of the ocean to the depth of space and cyberspace, Thales Group provides a unique range of technologies and services that make tomorrow possible, today. From helping cities and critical infrastructures to become safe and smart, to securing the global financial markets, protecting data and privacy and keeping security forces connected while on critical missions, Thales ensure that everyone can continue to share information, reap the benefits of a connected world and enjoy an enhanced quality of life, while staying safe and one step ahead of all forms of digital threat.
+Thales’ Applied AI Research Team in Canada is looking for a talented researcher with a great appetite to solve complex research questions and apply them to critical machine learning projects. The team aims to design and implement cutting-edge solutions by incorporating Data Science and Decision Making capabilities.
+Principaux domaines de responsabilité
+Un scientifique de recherche et technologie (R&T) en science de données et aide à la décision est chargé de découvrir, de réaliser et d'intégrer des concepts innovants en IA dans les solutions Thales. Il/elle prouve leur viabilité à travers la mise en œuvre de preuves de concepts et guide leur croissance en maturité à travers des prototypes et des démonstrateurs qui illustreront et permettront à leur tour leur plein potentiel commercial.
+Pour réussir dans ce rôle, la curiosité pour ce qui est nouveau, la volonté de défier le statu quo, l'ouverture d'esprit et la pensée originale sont essentielles. L'individu doit rapidement apprendre et évaluer les nouvelles techniques et technologies afin de décider de les adopter, de les adapter ou de les abandonner. Il doit également être capable de proposer de nouvelles idées, de les présenter, de les questionner et de les améliorer en permanence. La personne doit posséder des compétences techniques approfondies et pratiques et être familière avec les outils et méthodes associés à la recherche opérationnelle. Le candidat doit démontrer une solide compréhension de la méthode scientifique et sa capacité à fournir un contenu de qualité à toutes les étapes du processus de recherche : de la capacité à résumer le contexte théorique d'un nouveau domaine jusqu’à la diffusion des résultats de la recherche par le biais de publications revues par les pairs, de brevets ou autres moyens.
+Le scientifique fait partie d'une équipe pluridisciplinaire. Un fort esprit d'équipe et des capacités de travail d'équipe sont obligatoires. Le candidat idéal est donc en mesure de démontrer des compétences transversales qui faciliteraient le transfert du travail effectué à tous les intervenants impliqués. Il / elle contribuera en tant qu'expert technique aux projets de recherche et technologie de Thales et de ses unités commerciales. Par conséquent, de bonnes capacités de communication sont requises.
+Responsibiliés du Scientifique en IA appliquée:
+Effectuer des recherches et développer des algorithmes pour les systèmes critiques.
+Concevoir et mettre en œuvre des modèles d'IA à grande échelle pour résoudre un grand nombre de problèmes complexes.
+Publier les résultats de la recherche dans des conférences sur l'IA de premier plan et contribuer à la publication de brevets d'innovation.
+Faire preuve de bonnes compétences en matière de communication avec les scientifiques, les ingénieurs et les parties prenantes.
+Faire preuve de discernement dans le choix des méthodes et des techniques pour obtenir des solutions.
+Collaborer avec des instituts universitaires ou de recherche (par exemple, CRSNG, MITACS, etc.), avec des partenaires industriels et avec des unités/équipes internes de Thales.
+Proposer, collecter et synthétiser les exigences du système auprès des parties prenantes et créer des feuilles de route efficaces.
+A Research and Technology (R&T) AI scientist in Data Science and Decision Making is responsible for discovering, enabling and integrating complex innovative AI concepts into Thales solutions. He/she proves their viability through the implementation of Proofs of Concept (PoCs) and guides their maturity growth through prototypes and demonstrators that will in turn illustrate and enable their full business potential.
+To be successful in this role, curiosity for what is new, willingness to challenge the status quo, open-mindedness and out-of-the-box thinking are crucial. The individual should quickly learn and assess new techniques and technologies in order to decide whether to adopt, adapt or discard them. He/she also needs to be able to come up with new ideas, present them, challenge them and improve them continuously. The individual must possess deep, hands-on technical skills and be familiar with operations research methods and tools. The candidate must demonstrate a strong understanding of the scientific method and his/her ability to deliver quality content at all steps of the research process, from the capability to summarize the theoretical background of a novel domain to the dissemination of research outputs through peer-reviewed publications, patents or other means.
+The scientist is part of a multi-disciplinary team. Strong team spirit and teamwork capabilities are mandatory. The ideal candidate therefore is able to demonstrate transverse skills that would facilitate the transfer of the work carried out to all stakeholders involved. He/she will contribute as a technical subject matter expert to Research and Technology projects across Thales and its business units. Therefore, good communication skills are required.
+Applied AI Research Scientist Responsibilities:
+Perform research and develop algorithms for critical systems.
+Design and implement AI models to serve a large number of complex problems.
+Publish research results in top-tier AI conferences and contribute to publishing innovation patents
+Demonstrate good communication skills with scientists, engineers, and stakeholders
+Demonstrate good judgment in selecting methods and techniques for obtaining solutions
+Collaborate with academic or research institutes (e.g., NSERC, MITACS, etc.), industrial partners, and internal Thales units/teams
+Suggest, collect, and synthesize system requirements from stakeholders and create effective roadmaps
+Qualifications minimales
+Doctorat en informatique, ingénierie, mathématiques appliquées, statistiques ou dans un domaine connexe.
+Expérience existante en intelligence artificielle, apprentissage automatique, apprentissage par renforcement, aide à la décision, LLMs, robotique et/ou systèmes multi-agents
+Compétences avérées en matière de conception de systèmes d'intelligence artificielle
+Solide connaissance des techniques de prise de décision basées sur l'IA et des défis qu'elles posent
+Solides bases en mathématiques, statistiques et probabilités
+Solides connaissances des fondements de l'apprentissage automatique
+Connaissance du domaine de l'optimisation et des problèmes de recherche, englobant des approches telles que les algorithmes évolutionnaires.
+Connaissance des principales architectures d'apprentissage profond (Transformers, CNN, LSTM, etc.).
+Solides compétences en développement d’apprentisage automatisé en utilisant Python et des cadres de programmation tels que Tensorflow, Keras, PyTorch, Scikit-learn, Theano.
+Connaissance pratique du système d'exploitation Linux
+Initier et conduire des projets de recherche appliquée jusqu'à leur terme avec un minimum d'encadrement.
+Souci de contribuer à un environnement axé sur le travail d'équipe.
+Capacités de leadership démontrées au sein d'organisations scolaires, civiles ou commerciales.
+Capacité à travailler de manière créative et analytique dans un environnement de résolution de problèmes.
+Communiquer le travail scientifique de manière claire et efficace (présentations orales et écrites, publications, etc.)
+Maîtrise du français (parlé et écrit).
+PhD in computer science, engineering, applied mathematics, statistics, or a related field.
+Prior experience in artificial intelligence, machine learning, reinforcement learning, decision-making, LLMs, robotics and/or multi-agent systems
+Demonstrated abilities in designing AI systems
+Strong knowledge of AI-driven decision-making techniques and challenges
+Strong foundation in mathematics, statistics and probability
+Strong knowledge of Machine Learning foundations
+Knowledge of the optimization and search problems field, encompassing approaches such as evolutionary algorithms
+Knowledge of mainstream Deep Learning architectures (Transformers, CNN, LSTM, etc).
+Strong development skills with Machine Learning using Python and frameworks such as Tensorflow, Keras, PyTorch, Scikit-learn, Theano
+Working knowledge of Linux OS
+Initiating and driving applied research projects to completion with minimal guidance.
+Eagerness to contribute in a team-oriented environment
+Demonstrated leadership abilities in school, civil or business organisations
+Ability to work creatively and analytically in a problem-solving environment
+Communicating scientific work clearly and effectively (talks, presentations, publications, etc.)
+Fluency in French (spoken and written).
+Qualifications souhaitées
+Au moins 5 ans d'expérience en apprentissage automatique en Python
+Une expérience remarquable dans le développement de logiciels d'IA avec des preuves sur Github (ou similaire)
+Experience avec les technique AI/ML pour la neuroscience
+Capacités démontrées dans la conception de systèmes d'IA
+Intérêt et expérience avérés pour l'IA d'un point de vue algorithmique et d'un point de vue système
+Intérêt et expérience avérés pour l'IA explicable et la formation "" Human-in-the-Loop "".
+Expérience pratique avec la visualisation de données et des outils/langages d'analyse de données
+Capacité à travailler en équipe et à collaborer dans un cadre professionnel
+Capacité à établir une crédibilité auprès des clients et des autres membres de l'équipe.
+Expérience préalable dans un environnement de recherche et technologie ou d'innovation (brevets, publications, etc.)
+Maîtrise de l'anglais (parlé et écrit). Ce poste requiert une bonne connaissance de l'anglais pour la rédaction de documents techniques, pour interagir, soutenir et/ou fournir des services à des clients, employés et/ou partenaires internationaux ainsi qu’à des autorités gouvernementales étrangères qui ne parlent pas français
+Minimum 5 years of machine learning experience in Python
+A track record of outstanding AI software development with Github (or similar) evidence
+Existing experience with AI/ML for Neuroscience
+Demonstrated abilities in designing AI systems
+Demonstrated interest and experience in AI from both an algorithmic and a system point of view
+Demonstrated interest and experience in Explainable AI and Human-in-the-Loop training
+Hands-on experience with data visualization, analytics tools/languages
+Demonstrated teamwork and collaboration in professional settings
+Ability to establish credibility with clients and other team members
+Prior experience in a Research & Technology or innovation environments (patents, publications, etc.)
+Fluency in English (spoken and written).
+Ce poste requiert une bonne connaissance de l'anglais pour la rédaction de documents techniques, pour interagir, soutenir et/ou fournir des services à des clients, employés et/ou partenaires internationaux ainsi qu’à des autorités gouvernementales étrangères qui ne parlent pas français
+Exigences Physiques
+Ce poste peut nécessiter de l’employé(e) de mettre en place de l’équipement et de conduire des expériences sur le terrain en environnement extérieur.
+The job may require the employee to setup equipment and perform field trials in outdoor environments.
+Ce que nous offrons
+Assurance maladie complémentaire payée par l'entreprise, assurance dentaire, HSA, assurance vie, AD&D, invalidité à court terme, programme de soins contre le cancer, assurance voyage, plan d'aide aux employés et programme de bien-être.
+Régimes d'épargne-retraite (REER, PPCD, CELI) avec une contribution de l'entreprise et une contribution équivalente à un PPCD, sans période d'acquisition.
+Jours fériés, jours de vacances et congés de maladie payés par l'entreprise.
+Assurance-vie volontaire, assurance-décès, assurance contre les maladies graves, assurance-invalidité de longue durée.
+Thales est un employeur offrant l’égalité des chances qui valorise la diversité et l’inclusion sur le lieu de travail. Thales s’engage à mettre en place des mesures d’adaptation tout au long du processus de recrutement. Les candidats sélectionnés pour une entrevue et ayant besoin de mesures d’adaptation sont priés de le faire savoir lors de l’invitation à l’entrevue; notre équipe travaillera volontiers avec chaque candidat pour répondre à ses besoins particuliers. Tous les renseignements relatifs aux mesures d’adaptation seront traités d’une manière confidentielle et utilisés uniquement dans le but d’offrir une expérience candidat adaptée.
+Thales is an equal opportunity employer which values diversity and inclusivity in the workplace. Thales is committed to providing accommodations in all parts of the interview process. Applicants selected for an interview who require accommodation are asked to advise accordingly upon the invitation for an interview. We will work with you to meet your needs. All accommodation information provided will be treated as confidential and used only for the purpose of providing an accessible candidate experience.
+Ce poste exige un accès direct ou indirect à du matériel, des logiciels, ou à des informations techniques contrôlés en vertu de la Liste des marchandises et technologies d’exportation contrôlée du Canada, de la réglementation américaine sur l'administration des exportations (EAR) et/ou du Programme de sécurité industrielle du Canada. Tous les candidats doivent être éligibles ou en mesure d'obtenir une autorisation, y compris une habilitation de sécurité canadienne de niveau fiabilité approfondie.
+This position requires direct or indirect access to hardware, software or technical information controlled under the Canadian Export Control List, the Canadian Industrial Security Program, and/or the US Export Administration Regulations (EAR). All applicants must be eligible or able to obtain authorization including a Canadian Enhanced Reliability security clearance.","https://www.glassdoor.ca/job-listing/applied-ai-research-scientist-data-science-decision-making-thales-JV_KO0,58_KE59,65.htm?jl=1009471204837",Quebec,Machine Learning
+Expert(e) en Intelligence Artificielle et Transformation Numérique,Dimonoff,Quebec,$62K (Employer Est.),7d,"Nous voyons grand !Chez Dimonoff, nous sommes des pionniers dans le développement de solutions technologiques intelligentes pour la gestion d’actifs urbains, notamment en éclairage intelligent et stationnement connecté. Grâce à notre expertise en IoT, nous aidons les villes, les gestionnaires immobiliers et les entreprises à optimiser leur efficacité énergétique, leur sécurité et leur performance opérationnelle.Notre équipe passionnée évolue dans un environnement dynamique, agile et collaboratif, où chaque voix compte et où l’innovation est au cœur de notre ADN. Nous sommes en pleine transformation numérique et souhaitons intégrer l’intelligence artificielle (IA) au cœur de notre stratégie d’innovation.➡Pour apprendre plus sur Dimonoff:https://www.dimonoff.com/fr/Nous recherchons un(e) expert(e) en intelligence artificielle (IA) qui jouera un rôle central dans la transformation numérique de Dimonoff. Vous travaillerez en étroite collaboration avec le Vice-Président Innovation et Technologies pour concrétiser notre vision IA et accompagner l’ensemble de l’organisation dans son adoption.Responsabilités principales :Stratégie et Leadership : Traduire la vision IA de Dimonoff en une feuille de route concrète et pragmatique.Développement et Intégration : Concevoir, développer et implémenter des solutions IA adaptées à nos produits et services.Collaboration et Sensibilisation : Accompagner les équipes internes et clients dans l'adoption des solutions IA.Gestion de Données et IA : Structurer et exploiter les données pour améliorer la prise de décision et optimiser les opérations.Veille Technologique : Suivre les tendances IA et proposer des innovations pertinentes pour Dimonoff.Profil recherché Formation : Baccalauréat ou maîtrise en informatique, science des données, intelligence artificielle, ou domaine connexe.Expérience : Minimum 2 ans d’expérience en IA, apprentissage automatique ou transformation numérique.Compétences techniques :Maîtrise des algorithmes d’IA, Machine Learning, Deep LearningConnaissance des outils et langages de programmation IA (Python, TensorFlow, PyTorch, etc.)Compétences stratégiques : Capacité à faire le pont entre la vision stratégique et la mise en œuvre technologiqueExcellentes compétences en vulgarisation et communicationExpérience en gestion de projets IAPourquoi rejoindre Dimonoff ?Impact direct : Vous serez un acteur clé de notre transformation numérique.Culture d’innovation : Un environnement dynamique et technologique où l’innovation est au cœur des décisions.Autonomie et responsabilités : Un rôle stratégique tout en restant très opérationnel.Opportunités de croissance : Possibilité de faire évoluer le poste en fonction de votre impact sur l’organisation.Ce que nous offrons a l'Expert(e) en Intelligence Artificielle et Transformation Numérique :Conciliation famille-travail (reconnu par le sceau Concilivi)Horaire flexible + vendredi après-midi en congéMode de travail (hybride ou présentiel)Assurances collectives et télémédecine (Telus) dès la première journéeREER avec cotisation de l’employeurCongés et vacances flexiblesProgramme de reconnaissance des années de serviceActivités sociales et sportivesEspace de bureaux lumineux et modernes dans un secteur centralTransport en commun à proximité et possibilité de stationnement intérieur pour vélo et autoDouchesRecherche des dernières technologies pour te permettre de performerEnvironnement agile et outils à la fine pointePossibilité de se développer et de grandir dans une entreprise en croissanceType d'emploi : Temps plein, PermanentRémunération : à partir de 62 000,00$ par anAvantages :Assurance DentaireAssurance InvaliditéAssurance Maladie ComplémentaireAssurance VieCongés payésCotisation égale au RÉERÉvénements d'EntrepriseHeures d’arrivée et de départ flexiblesProgramme d'Aide aux EmployésStationnement sur placeTenue DécontractéeTravail à domicileHoraire :8 HeuresDu Lundi au VendrediQuart de jourLieu du poste : Télétravail hybride à Ville de Québec, QC","https://www.glassdoor.ca/job-listing/expert-e-en-intelligence-artificielle-et-transformation-num%C3%A9rique-dimonoff-JV_KO0,65_KE66,74.htm?jl=1009691426336",Quebec,Machine Learning
+Développeur.euse IA et robotique,Soljit,Canada,N/A,30d+,"Vous souhaitez vous épanouir dans un environnement de travail stimulant ? Joignez-vous au leader en transformation numérique et boostez votre carrière chez Levio. Nous vous proposons une opportunité unique de développer votre savoir-faire au sein d’une équipe de haut calibre.
+
+La variété des défis proposés par nos clients vous donnera l’occasion de vous dépasser et de maintenir votre expertise au top. Partagez le quotidien de nos clients et soyez un acteur important dans les projets les plus ambitieux en matière de technologies et de solutions logicielles.
+
+DESCRIPTION DU POSTE :
+
+Nous sommes à la recherche de Développeurs en IA et robotique pour différents projets d'envergure.
+
+RÔLE ET RESPONSABILITÉS :
+
+Nous cherchons des développeurs en IA et Machine Learning pour faire progresser nos différents projets pour des clients dans des secteurs d’activités variés.
+
+Vous avez de l’expérience avec le développement d’applications d’IA utilisant des techniques d’apprentissage et d’autres méthodes dites symboliques. Vous avez de solides compétences en C++, Python, Java et C#. Vous aimez créer des applications avant-gardistes et avez à la fois une capacité de travail en équipe et de façon autonome.
+
+Le travail peut se faire en majorité à distance durant les périodes de confinement, sinon dans nos bureaux à Montréal, Québec ou Sherbrooke.
+
+QUALIFICATIONS ET EXPÉRIENCE :
+3 ans ou plus d’expérience en Machine Learning
+1 an ou plus d’expérience avec des approches symboliques de l’IA
+Solides compétences en Python, C++, Java et C#.
+Bilingue Français / Anglais
+Expérience comme Team lead
+Capacité à travailler simultanément sur plusieurs tâches
+
+AVANTAGES SOCIAUX :
+
+Levio offre plusieurs avantages dans le but d’offrir la plus grande flexibilité possible à ses employés! En plus d’offrir un environnement de travail stimulant et dynamique, nous offrons entre autres :
+
+4 semaines de vacances cumulables dès l’embauche
+Horaires flexibles
+Une allocation de développement professionnel (ADP) utilisable pour des formations, de l’équipement informatique et des activités physiques
+Formations adaptées à vos domaines d’expertise
+Régime Enregistré d’Épargne Retraite (REER) avec contribution employeur jusqu’à un maximum de 3% de votre salaire brut.
+Des assurances collectives modulables
+Le transport en commun ou le stationnement est remboursé lorsque requis
+Des primes au référencement de nouveaux candidats
+11 congés féries
+Des congés personnels
+Une vie sociale active (5 à 7, club social, cafés et collations santé, etc.)
+
+
+Statut du poste : Temps plein, permanent
+
+Levio souscrit au principe d'équité en emploi et applique un programme d'accès à l'égalité en emploi pour les femmes, les autochtones, les minorités visibles, les minorités ethniques et les personnes en situation d’handicap.
+
+Levio valorise la diversité et de l’inclusion et vise à créer un milieu de travail sain, accessible et gratifiant qui met en valeur la contribution unique de nos employés au succès de notre entreprise. En tant qu'employeur qui s'engage à respecter l'équité en matière d'emploi, nous encourageons les candidatures les plus diverses. Des accommodements sont disponibles sur demande pour les candidats qui participent à tous les aspects du processus de sélection.
+
+Le genre masculin est utilisé sans aucune discrimination et dans le seul but d’alléger le présent texte.","https://www.glassdoor.ca/job-listing/d%C3%A9veloppeur-euse-ia-et-robotique-soljit-JV_KO0,32_KE33,39.htm?jl=1009523194744",Quebec,Machine Learning
+Expert(e) en Intelligence Artificielle et Transformation Numérique,Dimonoff,Quebec,N/A,7d,"Description de l'entreprise
+Nous voyons grand !
+Chez Dimonoff, nous sommes des pionniers dans le développement de solutions technologiques intelligentes pour la gestion d’actifs urbains, notamment en éclairage intelligent et stationnement connecté. Grâce à notre expertise en IoT, nous aidons les villes, les gestionnaires immobiliers et les entreprises à optimiser leur efficacité énergétique, leur sécurité et leur performance opérationnelle.
+Notre équipe passionnée évolue dans un environnement dynamique, agile et collaboratif, où chaque voix compte et où l’innovation est au cœur de notre ADN. Nous sommes en pleine transformation numérique et souhaitons intégrer l’intelligence artificielle (IA) au cœur de notre stratégie d’innovation.
+➡Pour apprendre plus sur Dimonoff:https://www.dimonoff.com/fr/
+Description du poste
+Nous recherchons un(e) expert(e) en intelligence artificielle (IA) qui jouera un rôle central dans la transformation numérique de Dimonoff. Vous travaillerez en étroite collaboration avec le Vice-Président Innovation et Technologies pour concrétiser notre vision IA et accompagner l’ensemble de l’organisation dans son adoption.
+Responsabilités principales :
+Stratégie et Leadership : Traduire la vision IA de Dimonoff en une feuille de route concrète et pragmatique.
+Développement et Intégration : Concevoir, développer et implémenter des solutions IA adaptées à nos produits et services.
+Collaboration et Sensibilisation : Accompagner les équipes internes et clients dans l'adoption des solutions IA.
+Gestion de Données et IA : Structurer et exploiter les données pour améliorer la prise de décision et optimiser les opérations.
+Veille Technologique : Suivre les tendances IA et proposer des innovations pertinentes pour Dimonoff.
+Qualifications
+Formation : Baccalauréat ou maîtrise en informatique, science des données, intelligence artificielle, ou domaine connexe.
+Expérience : Minimum 2 ans d’expérience en IA, apprentissage automatique ou transformation numérique.
+Compétences techniques :
+Maîtrise des algorithmes d’IA, Machine Learning, Deep Learning
+Connaissance des outils et langages de programmation IA (Python, TensorFlow, PyTorch, etc.)
+Compétences stratégiques :
+Capacité à faire le pont entre la vision stratégique et la mise en œuvre technologique
+Excellentes compétences en vulgarisation et communication
+Expérience en gestion de projets IA
+Informations complémentaires
+Pourquoi rejoindre Dimonoff ?
+Impact direct : Vous serez un acteur clé de notre transformation numérique.
+Culture d’innovation : Un environnement dynamique et technologique où l’innovation est au cœur des décisions.
+Autonomie et responsabilités : Un rôle stratégique tout en restant très opérationnel.
+Opportunités de croissance : Possibilité de faire évoluer le poste en fonction de votre impact sur l’organisation.
+Ce que nous offrons à l'Expert(e) en Intelligence Artificielle et Transformation Numérique :
+Conciliation famille-travail (reconnu par le sceau Concilivi)
+Horaire flexible + vendredi après-midi en congé
+Mode de travail (hybride ou présentiel)
+Assurances collectives et télémédecine (Telus) dès la première journée
+REER avec cotisation de l’employeur
+Congés et vacances flexibles
+Programme de reconnaissance des années de service
+Activités sociales et sportives
+Espace de bureaux lumineux et modernes dans un secteur central
+Transport en commun à proximité et possibilité de stationnement intérieur pour vélo et auto
+Douches
+Recherche des dernières technologies pour te permettre de performer
+Environnement agile et outils à la fine pointe
+Possibilité de se développer et de grandir dans une entreprise en croissance","https://www.glassdoor.ca/job-listing/expert-e-en-intelligence-artificielle-et-transformation-num%C3%A9rique-dimonoff-JV_KO0,65_KE66,74.htm?jl=1009691416349",Quebec,Machine Learning
+Senior Machine Learning & Computer Vision Engineer,Dandy,Quebec,N/A,30d+,"Dandy is transforming the massive ($200B) but antiquated dental industry. Backed by some of the world's leading venture capital investors, we are on an ambitious mission to integrate and simplify every function of the dental practice through technology. By building the operating system for every dental office in America, Dandy is empowering dentists with technology, innovation, and world-class support to achieve more for their practice, their people, and their patients.
+About the Role
+In the past 3 years, Dandy has built the leading digital-first custom dental appliance manufacturer. As we go through our next level of scale, Dandy is building a world class Machine Learning & Computer Vision team to enhance our 3D dental platform and automate many of the human-driven processes in our manufacturing today.
+The global, remote team tackles problems involving 3D geometric computer vision, generative deep learning, and SOTA machine learning methods. As a part of this newly created team, you will play a key role in laying the foundation that will drive the team’s success. You will establish best practices, solve ambiguous data problems that have never been solved before with industry wide impact, and be given the freedom to innovate.
+What You'll Do
+Build Computer Vision models to extract structure from unstructured, information-dense 3D scans
+Research SOTA methods for developing models to accomplish 3D generative AI tasks as well as conventional computer vision tasks.
+Work with product and research teams to identify opportunities for improvement in our current product line and for enabling upcoming product lines
+Work with massive datasets to develop both generic models as well as fine tune models for specific applications
+Develop evaluation methods which allow us to establish confidence in our datasets and models
+Implement best practices for our MLOps pipelines
+Work closely with product owners on a feature focused team to deliver value quickly to Dandy’s customers
+What We're Looking For
+3+ years experience, 2+ in ML
+Extensive experience in Python
+Experience with 2D Deep Learning
+Experience with 3D geometric Computer Vision
+Experience with 3D Deep Learning is preferred
+Experience with PyTorch
+Have immaculate attention to detail and take pride in delivering excellent code and results
+Masters or PhD in related field
+For full time positions, we offer a wide range of best in class, comprehensive and inclusive employee benefits including healthcare, dental, parental planning, mental health benefits, a 401(k) plan, and paid time off.
+Dandy is proud to be an equal-opportunity employer. We are committed to building a diverse and inclusive culture that celebrates authenticity to win as one. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity, sexual orientation, age, marital status, disability, protected veteran status, citizenship or immigration status, or any other legally protected characteristics.
+Dandy also fully complies with the Americans with Disabilities Act (ADA). We are dedicated to embracing challenges and creating an accessible, inclusive workplace for all individuals. If you require any accommodations for your interview or have any questions beforehand, rest assured that we will do everything we can to meet your needs. Visit Dandy Careers for more!","https://www.glassdoor.ca/job-listing/senior-machine-learning-computer-vision-engineer-dandy-JV_KO0,48_KE49,54.htm?jl=1009626382198",Quebec,Machine Learning
+Scientifique de données Senior ( A.I. ),BioTwin,Quebec,N/A,30d+,"À propos de nous
+La mission de BioTwin est d'améliorer la santé des gens.
+BioTwin exploite l'IA, les biomarqueurs et la biométrie afin de créer une copie humaine virtuelle. Ces jumeaux numériques permettent la détection précoce et la prédiction de maladies et d'innombrables simulations. Cette technologie révolutionne les domaines du bien-être et des soins de santé en faisant de la médecine personnalisée et préventive une réalité.
+ Description de poste
+Nous sommes à la recherche d'un scientifique des données sénior possédant une expertise en apprentissage automatique pour rejoindre notre équipe de démarrage dynamique.
+Relevant du directeur logiciel, le scientifique des données jouera un rôle clé dans la prise de décision basée sur les données et le développement de modèles d'apprentissage automatique de pointe pour résoudre des problèmes commerciaux complexes. Votre maîtrise de l'analyse de données, de la modélisation prédictive et du développement d'algorithmes sera essentielle pour découvrir des informations précieuses et permettre à notre startup de santé numérique de prospérer dans un marché concurrentiel.
+Voici plus de détails sur les rôles et responsabilités :
+
+Diriger la conception et le développement de modèles et de solutions logicielles d'apprentissage automatique/apprentissage profond
+Développer une compréhension claire des exigences du projet, collaborer avec des équipes interfonctionnelles et diriger la conception et la mise en œuvre de modèles d'apprentissage automatique et de solutions logicielles pour les soins de santé numériques.
+Appliquer les meilleures pratiques en génie logiciel et en développement d'apprentissage automatique, tout en maintenant une orientation solide sur la fourniture de solutions de haute qualité.
+Surveiller et améliorer en permanence les performances des modèles d'apprentissage automatique et des solutions logicielles
+Implémenter et maintenir les meilleures pratiques en génie logiciel et en développement d'apprentissage automatique, effectuer des tests approfondis et surveiller et améliorer en permanence les performances des modèles d'apprentissage automatique et des solutions logicielles.
+Appliquer les meilleures pratiques en génie logiciel, mettre en œuvre des processus rigoureux de test et d'assurance qualité.
+Surveiller et améliorer en permanence les performances des modèles et des logiciels.
+
+Environnement technologique
+
+Python, Github, PostgreSQL, MongoDB, Metabase, Node.Js, ClearML, DBT,
+Nous recherchons
+
+Bacc ou Maîtrise dans un domaine relié au Data Science
+Expérience en Machine Learning / Deep Learning
+Minimum de 10 ans d'expérience dans un rôle similaire
+Disponible à travailler en présenciel dans la ville de Québec
+Connaissance des outils de MLOps
+Expérience en bioinformatique un atout
+Exéprience en développement d'interfaces web un atout
+Expérience en rédaction scientifique un atout
+Bilingue ( Français et Anglais )
+
+Avantages de votre futur environnement de travail:
+Être parmi les premiers à avoir son jumeau numérique !
+Environnement Startup stimulant et innovateur
+Le sentiment d’avoir un réel impact dans la vie des gens en contribuant à l’amélioration de la médecine personnalisée
+Un milieu humain et flexible où la conciliation travail et vie professionnelle est priorisée
+Rémunération hautement compétitive qui met en valeur l’expérience académique ainsi que l’expérience en entreprise
+Participation au programme d’option d’actionnariat significatif
+Couvertures d’assurances santé pour les employés et leur famille payées à 50% par l’employeur
+Régime d’épargne-retraite participatif
+Un minimum de 3 semaines de congés rémunérés par année
+BioTwin rémunère les journées additionnelles aux jours fériés entre Noël et le jour de l’an
+5 jours additionnels de congés personnels et/ou maladies rémunérés si non-utilisées
+Événements sociaux réguliers pour les membres de l'équipe et leur famille
+Accès direct par les transports publics, voiture et vélo (stationnement gratuit)
+Formations et développement des compétences en continu
+Programme optimal de support psychologique des employés
+
+Python, Github, PostgreSQL, MongoDB, Metabase, Node.Js, ClearML, DBT,","https://www.glassdoor.ca/job-listing/scientifique-de-donn%C3%A9es-senior-ai-biotwin-JV_KO0,33_KE34,41.htm?jl=1009301776454",Quebec,Machine Learning
+Staff Software Engineer - Computer Vision,Dandy,Canada,$230K - $258K (Employer Est.),26d,"Dandy is transforming the massive ($200B) but antiquated dental industry. Backed by some of the world's leading venture capital investors, we are on an ambitious mission to integrate and simplify every function of the dental practice through technology. By building the operating system for every dental office in America, Dandy is empowering dentists with technology, innovation, and world-class support to achieve more for their practice, their people, and their patients.
+About the role
+In the past 3 years, Dandy has built the leading digital-first custom dental appliance manufacturer. As we go through our next level of scale, Dandy is building a world class team to enhance our 3D dental platform and automate many of the human-driven processes in our manufacturing today.
+The team tackles problems involving 3D geometric computer vision, generative deep learning, and SOTA machine learning methods. You will establish best practices, solve ambiguous imaging and rendering problems that have never been solved before with industry wide impact, and be given the freedom to innovate.
+What You'll Do
+Make technical decisions on algorithmic strategy and data representations to help drive to business value quickly
+Setting up systems and best practices to accelerate interdisciplinary teams’ velocity
+Guide junior engineers to bring research code into production
+Implement current CV, ML, Inverse Rending and PBR approaches to solve the problems related to creating esthetic dental restorations
+Recover the optical properties of human teeth from images, 3D textures and meshes
+Learning the influence of lighting conditions on true color as it relates to teeth
+Learning the mapping between true color and manufacturing paints/ink and manufacturing processes
+Develop realistic rendering pipelines to aid in the design of color and optical properties of teeth to match patients
+What We're Looking For
+10+ years experience in software development
+3+ years of experience in rendering or rendering adjacent projects (reconstruction, optical property rectification, ray tracing/casting, etc)
+3+ years of experience in 2D or 3D computer vision
+Experience bringing research product to market
+Experience with one or more of the following:
+Simulating/modeling optical properties of materials under different lighting conditions
+Inverse rending, scene/object reconstruction from photos
+Photo realistic rendering
+Normalization of true color/material properties from different types of cameras/sensors.
+Mapping desired optical properties of materials to inputs for manufacturing processes with the intent of controlling/matching the optical properties of the outputs from said manufacturing processes.
+Experience with neural rendering, NeRFs, lighting reconstruction, or a similar field in computer graphics.
+Bonus Points For
+Masters/PhD in computer vision/computer graphics or related field
+Experience with photo realistic rendering and color restoration of teeth would be a bonus but not required
+For full time positions, we offer a wide range of best in class, comprehensive and inclusive employee benefits including healthcare, dental, parental planning, mental health benefits, a 401(k) plan, and paid time off.
+Dandy is proud to be an equal-opportunity employer. We are committed to building a diverse and inclusive culture that celebrates authenticity to win as one. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity, sexual orientation, age, marital status, disability, protected veteran status, citizenship or immigration status, or any other legally protected characteristics.
+Dandy also fully complies with the Americans with Disabilities Act (ADA). We are dedicated to embracing challenges and creating an accessible, inclusive workplace for all individuals. If you require any accommodations for your interview or have any questions beforehand, rest assured that we will do everything we can to meet your needs. Visit Dandy Careers for more!
+Compensation Range: $230K - $257.5K","https://www.glassdoor.ca/job-listing/staff-software-engineer-computer-vision-dandy-JV_KO0,39_KE40,45.htm?jl=1009669519035",Quebec,Machine Learning
+Senior Data Analyst (Remote),"Maximus Health, Inc.",Quebec,$130K - $160K (Employer Est.),10d,"Company is based in Santa Monica, CA
+Position is Remote (North America; USA or Canada)
+Maximus (https://www.maximustribe.com/) is a mission-driven consumer health company that provides men with content, community, and clinical support to optimize them in mind and body. Maximus has raised $15M from top Silicon Valley VCs such as Founders Fund and 8VC as well as leading angel investors/operators from companies like Bulletproof, Tinder, Coinbase, Daily Stoic, & Shopify.
+Maximus is looking for a Senior Data Analyst to join our growing team!
+Please note: Culture is key at Maximus, so we get to know candidates holistically through our questionnaire. You will receive an invite in a separate email upon submitting an application. Please fill it out as honestly and intuitively as possible since it is designed to detect exaggeration, which will cause your application to be automatically rejected. The questionnaire is optional to submit now with your application, but candidates that do so will get strongly prioritized. It will be mandatory after any initial conversations have taken place. Note, we do not have access to individual questions’ answers/choices.
+Responsibilities:
+Analyze and interpret complex data sets to provide actionable insights to various stakeholders across the organization, including business, healthcare, e-commerce, and marketing metrics.
+Develop and maintain dashboards and reports using BI tools like Looker or Metabase to effectively communicate data-driven insights.
+Collaborate closely with Product, Marketing, Finance, and Operations to understand their data needs and provide the required insights.
+Design and implement data models and database structures to support efficient data analysis and reporting.
+Identify trends, patterns, and anomalies in data to support strategic decision-making and business growth.
+Develop and maintain documentation for data processes, methodologies, and analyses.
+Contribute to the continuous improvement of data quality, data governance, and analytical processes.
+Participate in cross-functional projects, particularly those involving healthcare data around telemedicine visits and health diagnostics like blood testing.
+Proactively identify opportunities for data-driven improvements across the business.
+The ideal candidate will have the following:
+Demonstrated experience in analyzing healthcare data, particularly in telemedicine and diagnostic testing.
+Strong background in e-commerce analytics and marketing performance metrics.
+Experience with data visualization techniques and tools to create compelling, insightful presentations.
+Familiarity with machine learning concepts and their application in predictive analytics.
+Knowledge of data privacy regulations and best practices, particularly in the healthcare sector.
+Experience working in a fast-paced, startup environment.
+A passion for men's health and personal development.
+Strong sense of ownership and proactivity in identifying and solving problems.
+Ability to work independently and collaboratively in a cross-functional team setting.
+Continuous learning mindset, staying updated with the latest trends and technologies in data analytics.
+Experience:
+5+ years of experience in data analysis, business intelligence, or a related field.
+Strong proficiency in SQL, dbt, and Python for data manipulation, analysis, and visualization.
+Experience with BigQuery and BI tools such as Looker or Metabase.
+Solid understanding of statistical concepts and their application in data analysis.
+Experience in healthcare, e-commerce, and digital marketing analytics is highly desirable.
+Proven track record of translating complex data into actionable insights for non-technical stakeholders.
+Strong problem-solving skills and attention to detail.
+Excellent communication skills, both written and verbal.
+Bachelor's degree in Statistics, Computer Science, Mathematics, or a related field. Advanced degree is a plus.
+Qualities:
+High Conscientiousness: Highly effective, organized, dutiful, self-disciplined, and careful. You are the type of person who used multiple colors of highlighters, and everyone wanted to borrow notes from. You never forget a task, execute it flawlessly, and are as reliable as clockwork.
+High Horsepower & Humility: High intellectual and physical energy. You eagerly solve big, complex, and ambiguous company problems, while having the humility to “roll your sleeves up” and do the dirty work without complaint.
+Creative Thinker: Highly creative thinker who tends to find solutions that others don’t see or inappropriately dismiss. Not content to do the safe bet everyone else takes.
+Relentlessly Resourceful (http://www.paulgraham.com/relres.html): highly proactive, does not quit, and finds innovative solutions with little guidance. Bias for action and ability to thrive in an ambiguous environment with a high degree of autonomy.
+Passion for Men’s Health & Development: interest in helping men develop a healthy masculinity. Demonstrates personal dedication and interest in health optimization (e.g. diet, exercise, sleep, focus, and relationships).
+World-Class Benefits:
+Premium Blue Shield Platinum PPO & HMO Plans (up to 80% coverage)
+Full Suite: Medical, Dental, Vision, Life Insurance
+Best-in-class 401K options
+Flexible vacation/time-off policies
+Liquidity of options whenever available
+Extended options exercise window for loyal employees (3 months for every year of service; e.g. 1 year for 4+ year employees)
+Maximus is an equal opportunity employer, which not only includes standard protected categories, but the additional freedom from discrimination against your free speech and beliefs, as long as they are aligned with company values. We celebrate intellectual diversity.
+Compensation Range: $130K - $160K","https://www.glassdoor.ca/job-listing/senior-data-analyst-remote-maximus-health-inc-JV_KO0,26_KE27,45.htm?jl=1009689171601",Quebec,Machine Learning
+Développeur·euse full-stack,Livesnap,Quebec,N/A,30d+,"Tu as envie de te joindre à une entreprise émergente où tu pourras contribuer de manière tangible à l’élaboration d’une solution innovante qui utilise l’intelligence artificielle? Tu n’as pas peur de mettre les bouchées doubles afin de créer une plateforme qui va révolutionner le domaine de l’intelligence d’affaires? Tu as envie de collaborer avec des collègues engagés, dans un environnement rapide et stimulant?
+Ça tombe bien, on recrute une personne expérimentée pour le poste de Développeur·euse full-stack!
+Le rôle?
+En tant que Développeur full-stack, tu participeras à la définition, au design et à l’implémentation des différentes parties de notre plateforme d'automatisation de veille stratégique. Tu auras l'occasion de collaborer avec une équipe dynamique et curieuse, tout en développant des solutions qui améliorent l'expérience utilisateur.
+Livesnap, c’est quoi?
+Livesnap est une solution de veille stratégique qui rassemble un vaste éventail de sources d’informations, vous permettant de trouver, d’analyser, et de surveiller ce qui compte vraiment.
+Tes futures responsabilités:
+Créer et optimiser des interfaces utilisateur modernes, performantes et accessibles.
+Participer à la conception de l’architecture front-end et back-end.
+Collaborer étroitement avec les équipes de développement logiciel.
+Écrire du code de haute qualité et évolutif.
+Se tenir informé des nouvelles tendances en design de produits et en développement front-end (outils, frameworks, bibliothèques).
+Partager ta passion pour le développement de produits numériques avec l'équipe.
+Ce qu’on te demande:
+Minimum de 5 ans d'expérience dans le développement front-end, OU plusieurs projets personnels.
+Excellente maîtrise des technologies et frameworks front-end (SvelteKit ou framework similaire), ainsi que back-end (Base de données, APIs, infra, etc.).
+Fort intérêt pour le travail en équipe agile et le design UI/UX.
+Compétences en matière de résolution de problèmes, avec la capacité de penser de manière créative et hors des sentiers battus.
+Bonnes compétences en communication écrite et orale, avec la capacité d'articuler des concepts techniques aux parties prenantes techniques et non techniques
+Un petit plus si:
+Maîtrise d’une librairie CSS comme TailwindCSS
+Expérience avec AWS, GCP et/ou Azure
+Connaissances en intelligence artificielle et/ou machine learning
+Ce qu’on t’offre:
+Apprentissage: opportunités d'apprentissage et de développement professionnel à une vitesse accélérée.
+Assurances: Assurance collective complète.
+Matériel: on te fournit un MacBook Pro, ainsi qu’un super poste de travail muni d’un écran 4K pour une productivité accrue au bureau.
+Culture: 5 à 7, lunch d'équipe, club de course et plus!
+Surtout, ce qu’on t’offre, c’est l’opportunité de te joindre à une équipe qui voit grand. Notre objectif est simple, révolutionner l’intelligence d’affaires grâce à une utilisation innovante de l’IA et une plateforme web.
+Alors, tu embarques dans l’aventure?
+Si ça te parle: fais-nous parvenir ta candidature dès maintenant!","https://www.glassdoor.ca/job-listing/d%C3%A9veloppeur-euse-full-stack-livesnap-JV_KO0,27_KE28,36.htm?jl=1009486461458",Quebec,Machine Learning
+AI/ML Senior Specialist,Solutions Petal Inc.,Quebec,N/A,30d+,"Petal is a leading Canadian healthcare orchestration and billing company that revolutionizes healthcare systems to make them agile, efficient, and resilient by enabling the forecasting and shaping of world-class healthcare through Healthcare BI, advanced analytics, and informed insights.
+Our commitment to fostering an exceptional workplace culture has earned us notable recognitions, including being listed as a Great Place to Work in both the technology and healthcare sectors. Join us in our mission to empower healthcare innovators and improve healthcare differently.
+What you can expect when joining the team
+Reporting to the Lead Data Platform, you will play a strategic role in the development and integration of artificial intelligence and machine learning (AI/ML) solutions within our organization. Working closely with the product and business teams, you will be responsible for adapting and refining models and solutions based on feedback from the field and operational needs. Your expertise will lay the foundations for optimized consumption of these solutions, both internally and externally.
+Your daily life
+In your day to day, you will be led to:
+Deploy innovative AI solutions adapted to the medical sector;
+Design and operate OCR (optical character recognition) and image analysis tools;
+Develop conversational agents based on RAG (retrieval-augmented generation) systems and manage the ingestion of various documents in vector databases;
+Collaborate with development, infrastructure and data platform teams to establish a solid foundation in AI and NLP (natural language processing);
+Implement and support predictive models consumed in real time.
+Your profile
+Are you an AI / ML expert, recognized for your ability to innovate and collaborate effectively? Are you looking for an opportunity to contribute to groundbreaking healthcare projects? The sky is the limit! If you have :
+A minimum of 7 years' relevant experience;
+Expertise in Python for ML: scikit-learn, TensorFlow, PyTorch;
+Expertise in Python analysis tools: Spark, Pandas, SQL, Matplotlib;
+Proven skills in NLP and RAG;
+Experience with LangChain and vector databases;
+Proficiency in using Docker;
+Experience in computer vision and document/image processing;
+Knowledge of MLops (e.g. Mlflow, KubeFlow) - an asset;
+Experience in CI/CD development with GitLab – asset;
+Experience in the healthcare sector - an asset;
+Knowledge of the AI Azure stack - an asset;
+Mastery of Python APIs (FastAPI, Flask, Django, Azure Functions) - an asset;
+Experience in LLM fine-tuning an asset;
+Familiarity with Streamlit – asset;
+Since you'll be interacting on a regular basis with unilingual English-speaking colleagues outside Quebec, complete mastery of English and French (spoken, written and read) is required.
+Petal’s position on remote working
+In our opinion, a company cannot claim to be modern, innovative and have the well-being of their team at heart, without attempting to integrate remote working to the level that their business model allows them to. Petal employees continue to benefit from the option of teleworking up to the maximum flexibility permitted by the nature of the position and the smooth running of operations.
+Our benefits
+A signing bonus of $1,000 for your remote work set-up;
+Compensation that recognizes your contribution;
+4 to 6 weeks of paid vacation per year;
+5 paid personal days per year;
+A group RRSP / DPSP plan with employer contribution;
+A complete group insurance plan, from day 1;
+An annual wellness allowance;
+Access to the Lumino Health™ telehealth application;
+Flexible work hours and more.
+Petal is an active participant in the equal opportunity employment program, and members of the following target groups are encouraged to apply: women, people with disabilities, aboriginal peoples and visible minorities. If you are a person with a disability, assistance with the screening and selection process is available on request.","https://www.glassdoor.ca/job-listing/ai-ml-senior-specialist-solutions-petal-inc-JV_KO0,23_KE24,43.htm?jl=1009637635799",Quebec,Machine Learning
+Senior DevOps / Platform Engineer,Datatonic,Quebec,N/A,6d,"Shape the Future of AI & Data with Us
+At Datatonic, we are Google Cloud's premier partner in AI, driving transformation for world-class businesses. We push the boundaries of technology with expertise in machine learning, data engineering, and analytics on Google Cloud. By partnering with us, clients future-proof their operations, unlock actionable insights, and stay ahead of the curve in a rapidly evolving world.
+Your Mission
+As a Senior DevOps Engineer, you will play a key role in establishing, leading and enhancing DevOps practices within our clients' organisations.
+We are looking for a proactive and skilled professional who thrives in a dynamic, technology-driven environment and is eager to contribute to the growth and innovation of an established scale-up. This role offers the chance to apply your expertise and grow your career while making a tangible impact on cutting-edge projects.
+What You’ll Do
+Pipeline Development: Design, implement, and automate scalable and resilient CI/CD & DevOps pipelines on Google Cloud Platform, tailored to client-specific AI/ML and data engineering needs.
+Infrastructure as Code (IaC) Pipelines: Develop and maintain IaC pipelines using tools like Terraform to automate infrastructure provisioning and deployment on GCP, improving efficiency and consistency.
+Technical Best Practices: Define and embed best practices into our internal processes to enhance the quality and consistency of our work
+Technical Thought Leadership: Introduce innovative ideas and approaches to enhance Datatonic’s capabilities and methodologies
+Sales Support: Collaborate with sales teams to provide technical expertise during client engagements and help scope solutions for requirements
+Knowledge Sharing: Contribute to Datatonic’s internal knowledge base, including technical collateral and thought leadership materials
+Agile Collaboration: Work in a dynamic, agile environment alongside data scientists, machine learning experts, data analysts, architects and data engineers
+Tech Partner Collaboration: Collaborate closely with partners such as Google to leverage their technologies effectively
+Mentorship and Leadership: Guide team members, fostering a culture of growth and innovation
+Best Practices Advisory: Provide expert advice to customers on DevOps best practices
+Function Optimisation: Establish and enhance DevOps functions within clients’ organisations
+Stakeholder Engagement: Engage with customers and project teams throughout the project development lifecycle to ensure seamless delivery
+What You’ll Bring
+DevOps Experience: 4+ years of experience in the DevOps field or as a Platform Engineer
+Programming Skills: Proficiency in Python, Java, or Go programming languages
+CI/CD Expertise: In-depth knowledge of CI/CD tools and processes
+Tech Enthusiasm: Strong passion for technology and a drive to continuously learn
+Team Collaboration: Eagerness to join a diverse team of ML, AI, and DevOps enthusiasts
+Cloud Platform: Experience with Google Cloud technologies such as Cloud Run, Cloud Functions, Cloud Scheduler, Workflow, and Cloud Composer for automating deployments and managing infrastructure.
+Containerisation/Virtualisation Expertise: Proficiency with technologies such as Terraform and Kubernetes
+Bonus Points If You Have:
+Start-Up/Scale-Up Experience: Previous experience working in a start-up or scale-up environment
+Open-Source Contributions: History of contributions to open-source projects, showcasing collaboration and innovation
+SRE Principles: Experience in implementing Site Reliability Engineering (SRE) principles
+Other Cloud Platforms: Experience/certifications for other cloud platforms such as AWS or Azure.
+Data Science Knowledge: Basic understanding of topics like machine learning, data mining, statistics, and data visualisation, with some practical experience preferred.
+SDN Knowledge: Understanding of Software Defined Networking (SDN) on Google Cloud
+What’s in It for You?
+We believe in empowering our team to thrive, with benefits including:
+Holiday: 20 days paid vacation + 5 additional paid leave days during the company holiday closure.
+Wellness Days: 5 days for personal time, sickness, or other needs.
+Retirement Savings: Group Retirement Savings Plan with matching contributions.
+Health Insurance: Comprehensive group insurance (extended health & dental) with 100% individual premium paid by the employer.
+Telemedicine: 100% employer-paid telemedicine services.
+Remote Work Support: Home office budget provided for our fully remote work environment.
+Internet/Phone Expenses: CAD $70/month (paid quarterly) for internet and phone costs.
+Tech Accessories & Equipment: CAD $1,500 every 3 years for office equipment (monitor, keyboard, mouse, desk, etc.) starting from Day 1.
+Work Laptop: Company-supplied MacBook Pro.
+Learning Allowance: CAD $400/year for books or a reading device.
+Certifications: Opportunities for paid certifications.
+Learning Platform Access: Full access to Udemy Business for both professional and personal development.
+Team Engagement: Regular company off-sites and meetups.
+Why Datatonic?
+Datatonic is a UK-based company with an Americas division located in Canada. The Canadian team operates remotely, with members distributed across North and South America. This role is open to candidates located anywhere in Canada.
+Join us to work alongside AI enthusiasts and data experts who are shaping tomorrow. At Datatonic, innovation isn’t just encouraged - it’s embedded in everything we do. If you’re ready to inspire change and deliver value at the forefront of data and AI, we’d love to hear from you!
+Are you ready to make an impact?
+Apply now and take your career to the next level.","https://www.glassdoor.ca/job-listing/senior-devops-platform-engineer-datatonic-JV_KO0,31_KE32,41.htm?jl=1009694019364",Quebec,Machine Learning
+Test Infrastructure Automation Architect,LeddarTech - Envision the road ahead!,Quebec,N/A,30d+,"LeddarTech, headquartered in Quebec City with R&D centers in Montreal and Tel Aviv, We specialize in AI-based low-level sensor fusion and perception software.
+
+Our solutions enable the deployment of advanced driver assistance systems (ADAS), autonomous driving (AD) and parking applications. Utilizing advanced AI and computer vision algorithms, our automotive-grade software, LeddarVision™, generates precise 3D environmental models for improved decision making and navigation safety.
+
+
+OUR MISSION
+
+Deliver high-performance AI automotive software that enables the market to deploy ADAS features reducing the number of road accidents and making transportation more enjoyable and efficient.
+
+
+YOUR MISSION
+
+
+YOUR MISSION
+
+Key reponsibilities :
+
+Design and Architecture of Test Infrastructure
+Define, design, document and implement scalable test infrastructure for automated testing of Computer Vision Perception software including software-in-the-loop (SIL) and hardware-in-the-loop (HIL) testing
+Develop architecture frameworks for Data/CI/CD pipelines, ensuring seamless integration with testing tools and systems
+Collaborate with DevOps, Data Engineering, software, system and Quality teams to create integrated test environments suitable for automotive requirements such as ASPICE and ISO-26262
+Tool Selection and Integration
+In collaboration with the DevOps and software teams, identify, evaluate, select and implement appropriate tools and technologies for test automation, CI/CD, and version control (e.g., Jenkins/CircleCI, Git, Docker, Kubernetes)
+In collaboration with the QA team, integrate third-party and in-house tools into the testing infrastructure while maintaining compatibility with automotive standards.
+Monitoring and Reporting
+Implement monitoring and alerting mechanisms for the CI/CD pipelines and test infrastructure to quickly detect and resolve issues.
+Create detailed reports and dashboards to provide insights on the effectiveness of the automated testing, including metrics such as test coverage, failure rates, and time to deployment.
+Technical Leadership and Mentorship
+Provide technical leadership in test automation, guiding teams on best practices (code reviews, coding standards, unit testing, etc..), architecture design, and process improvements.
+Mentor junior engineers and team members on test automation tools, methodologies, and continuous improvement techniques.
+
+Project Planning:
+
+Support his manager, team leads and project managers to plan and coordinate the rollout of new test infrastructure components, upgrades, and integrations. Set clear milestones, deliverables, and timelines for infrastructure implementation
+Collaborate with his manager, team leads and project management, system engineering, and development teams to ensure alignment of the development test infrastructure activities with the overall project plan
+
+The ideal person for this job will have :
+
+Bachelor's degree in computer science, Computer Engineering, Data Science and Machine Learning, relevant technical field, or equivalent practical experience
+5+ years of experience in an architect role (technical leadership)
+Vast experience programming in Python with libraries such as numpy, pandas, scipy, polars, etc…).
+Vast experience designing and deploying scalable, hybrid (on-premise and cloud) test automation infrastructure
+Experience with Cloud infrastructure (GCP preferred, AWS and Azure an asset)
+Experience with databases (SQL, MongoDB would be an asset)
+Experience with Container Technologies (Kubernetes, GKE, Docker, Cloud Run, etc…)
+Experience developing CI/CD pipelines using tools such as Jenkins and CircleCI
+Experience developing Data pipelines using tools such as airflow/cloud composer, airbyte, Kafka, ete.
+Experience working on Linux based infrastructure
+Strong verbal and written communication skills
+Experience to work collaboratively with remote teams on different time zones
+Bilingual (French+English). Hebrew would be a nice asset
+Open to travel between our R&D centers
+Don't worry if don't have experience with all these technologies, you will have the chance to learn them
+
+OUR VALUES
+
+Customer - Our customers are at the foundation of our actions.
+
+People - Our team's well-being and talent is our vector for growth.
+
+Innovation - We innovate in all aspects of our business on our path to market leadership.
+
+Courage - Our culture nurtures courage and empowerment.
+
+
+LIFE AT LEDDARTECH
+
+Flexibility: Many positions in the organization allow for flexible and hybrid work hours.
+
+Global Collaborative Multi-Disciplinary Teams: As a lean organization, we foster an environment where everyone's input matters. You will have the opportunity to influence our technology roadmap with your innovative ideas and contribute to our company's mission.
+
+The Right Tools Provided: Regardless of your position, we will outfit you with all the tools you need to be successful.
+
+Investment in Learning: Opportunities to attend seminars, trainings, and conferences to enhance your skills.
+
+
+PERKS
+
+Employee Assistance Program.
+Free onsite parking.
+Public transit accessibility.
+Comprehensive compensation package including short term incentives and long term incentives.
+Generous paid time off.
+
+#Envision the Road Ahead!","https://www.glassdoor.ca/job-listing/test-infrastructure-automation-architect-leddartech-envision-the-road-ahead-JV_KO0,40_KE41,75.htm?jl=1009576218547",Quebec,Machine Learning
